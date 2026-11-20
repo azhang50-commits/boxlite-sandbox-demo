@@ -1,0 +1,14 @@
+**/__pycache__/
+*.pyc
+**/venv/
+**/.venv/
+**/private/
+**/local-runtime/
+**/credentials.json
+**/controller-config.json
+**/session.lock
+**/local-demo.json
+.env
+.env.*
+.DS_Store
+dist/
